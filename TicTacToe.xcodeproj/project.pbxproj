@@ -12,6 +12,7 @@
 		6C95773D22E1468D007EC27F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C95773B22E1468D007EC27F /* Main.storyboard */; };
 		6C95773F22E1468D007EC27F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C95773E22E1468D007EC27F /* Assets.xcassets */; };
 		6C95774222E1468D007EC27F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C95774022E1468D007EC27F /* LaunchScreen.storyboard */; };
+		6C95774A22E14CE2007EC27F /* TTTImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C95774922E14CE2007EC27F /* TTTImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6C95773E22E1468D007EC27F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C95774122E1468D007EC27F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C95774322E1468D007EC27F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C95774922E14CE2007EC27F /* TTTImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTTImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				6C95773722E1468D007EC27F /* AppDelegate.swift */,
 				6C95773922E1468D007EC27F /* ViewController.swift */,
+				6C95774922E14CE2007EC27F /* TTTImageView.swift */,
 				6C95773B22E1468D007EC27F /* Main.storyboard */,
 				6C95773E22E1468D007EC27F /* Assets.xcassets */,
 				6C95774022E1468D007EC27F /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				6C95773A22E1468D007EC27F /* ViewController.swift in Sources */,
 				6C95773822E1468D007EC27F /* AppDelegate.swift in Sources */,
+				6C95774A22E14CE2007EC27F /* TTTImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
